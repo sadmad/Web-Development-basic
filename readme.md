@@ -54,8 +54,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Email**: your.email@example.com
+- **Email**: sarmad.re@gmail.com
 - **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/sarmad-rezayat)
 - **Twitter**: [@yourtwitterhandle](https://x.com/SadMadR)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sadmad&color=blue&style=flat)
