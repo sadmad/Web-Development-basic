@@ -28,7 +28,7 @@ The main goals of this repository are:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/Web-Development-basic.git
+   git clone https://github.com/sadmad/Web-Development-basic.git
    cd Web-Development-basic
    ```
 
