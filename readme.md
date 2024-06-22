@@ -28,8 +28,8 @@ The main goals of this repository are:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/web-development-review.git
-   cd web-development-review
+   git clone https://github.com/yourusername/Web-Development-basic.git
+   cd Web-Development-basic
    ```
 
 2. **Navigate to the desired section**
@@ -46,7 +46,7 @@ The main goals of this repository are:
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sadmad/web-development-review/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sadmad/Web-Development-basic/issues).
 
 ## License
 
