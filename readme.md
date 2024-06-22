@@ -1,6 +1,6 @@
 # Web Development Review
 
-![Web Development](https://github.com/sadmad/Web-Development-basic/1.webp)
+![Web Development](https://github.com/sadmad/Web-Development-basic/images/1.webp)
 
 ## Introduction
 
