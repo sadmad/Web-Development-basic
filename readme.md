@@ -42,11 +42,11 @@ The main goals of this repository are:
 
 ## Progress
 
-![Progress](https://progress-bar.dev/50/)
+![Progress](https://progress-bar.dev/5/)
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/web-development-review/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sadmad/web-development-review/issues).
 
 ## License
 
@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/sarmad-rezayat)
+- **Twitter**: [@yourtwitterhandle](https://x.com/SadMadR)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
