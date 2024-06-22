@@ -54,7 +54,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## Contact
 
 - **Email**: sarmad.re@gmail.com
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/sarmad-rezayat)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/sarmad-rezayat)
 - **Twitter**: [@yourtwitterhandle](https://x.com/SadMadR)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sadmad&color=blue&style=flat)
