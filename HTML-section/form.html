@@ -54,8 +54,54 @@
     </form>
     <form action="https://www.youtube.com/results">
         <label for="search">Search on google</label>
-        <input type="text" name="search_query" id="search">
+        <input type="text" name="search_query" id="agree">
         <button type="submit">Search</button>
+    </form>
+    <form action="/bird">
+
+        <input type="checkbox" name="agree_tos" id="agree">
+        <label for="agree">I agree to everything</label>
+    </form>
+    <form action="/birds">
+        <p>
+            <label for="xs">XS</label>
+            <input type="radio" name="size" id="xs" value="xs">
+            <lable for="s">S</lable>
+            <input type="radio" name="size" id="s" value="s">
+            <label for="m">M</label>
+            <input type="radio" name="size" id="m" value="m">
+            <label for="l">l</label>
+            <input type="radio" name="size" id="l" value="l">
+        </p>
+        <p>
+            <label for="list">Please selecte an Entree</label>
+            <select for="pet" id="per-select">
+                <option value="">Please choone an Entree</option>
+                <option value="dog">dog</option>
+                <option value="cat">cat</option>
+                <option value="hamster">hamster</option>
+                <option value="parrot">parrot"</option>
+                <option value="spider">spider</option>
+                <option value="goldfish">goldfish</option>
+            </select>
+
+        </p>
+        <!-- emmet: p>label[for="dogs"]{german}+input[name="dogs" id="german"] !-->
+        <p><label for="dogs">german</label><input type="text" name="dogs" id="german"></p>
+
+        <p>
+            <select name="" id="">
+                <option>please choose a food</option>
+                <option value="fish">fish</option>
+                <option value="veg">veg</option>
+                <option value="steak">strak</option>
+            </select>
+        </p>
+        <p>
+            <label for="cheese"></label>
+            <input type="range" name="cheese_level" id="cheese" min="1" ,="" max="10">
+        </p>
+        <button>Submit</button>
     </form>
 </body>
 
