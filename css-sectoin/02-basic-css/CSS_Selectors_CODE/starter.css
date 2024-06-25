@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+input + button {
+    background-color:rgb(212, 212, 16);
+}
+
+h2 + button {
+    background-color: chartreuse;
+}
+
+nav > a {
+    color: darkorange;
+}
+
+/* we can select a type of an HTML tag by [] */
+input[type= "text"]{
+    color: rgb(243, 216, 149);
+}
+
+/* we can select any atribute in the tag to be specific about the css */
+
+a[href*="google"]{
+    color: darkgreen;
+}
+
+.post button:hover{
+    background-color: cadetblue;
+}
+
+section a{
+    text-decoration: none;
+}
+section a:hover {
+    text-decoration: underline;
+}
