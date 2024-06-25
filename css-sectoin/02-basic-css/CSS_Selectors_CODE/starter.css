@@ -18,11 +18,14 @@ input[type= "text"]{
     color: rgb(243, 216, 149);
 }
 
-/* we can select any atribute in the tag to be specific about the css */
+/* we can select any atribute in the tag to be specific about the css pseudo classes*/
 
 a[href*="google"]{
     color: darkgreen;
 }
+
+/* pseudo element are different from pseufo code */
+
 
 .post button:hover{
     background-color: cadetblue;
@@ -34,3 +37,8 @@ section a{
 section a:hover {
     text-decoration: underline;
 }
+/* 
+Element weight 001
+classes ---> 010
+id --------? 100
+in line style ----> 10000 */
